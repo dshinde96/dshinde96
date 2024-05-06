@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/109900406?s=96&v=4" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Dnyaneshwar Shinde, 3rd-year IT student at Govt. College of Eng., Karad || Proficient in MERN stack with multiple projects || Leetcode 1608+.</div>  
   
 
