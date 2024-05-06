@@ -1,4 +1,4 @@
-### <div align="center">Dnyaneshwar Shinde, 3rd-year IT student at Govt. College of Eng., Karad || Proficient in MERN stack with multiple projects || Leetcode 1608+.</div>  
+### <div align="center">Dnyaneshwar Shinde, 3rd-year IT student at Govt. College of Eng., Karad || Proficient in MERN stack with multiple projects || Leetcode 1608+</div>  
   
 
 - 🔭 Currently delving into blockchain and Solidity exploration.  
