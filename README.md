@@ -1,15 +1,8 @@
 ### <div align="center">Dnyaneshwar Shinde, 3rd-year IT student at Govt. College of Eng., Karad || Proficient in MERN stack with multiple projects || Leetcode 1608+</div>  
   
 
-- 🔭 Currently delving into blockchain and Solidity exploration.  
+- 🔭 Working as a Software Developer Intern at Magically Genius. 
   
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
 
 
